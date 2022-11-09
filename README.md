@@ -41,7 +41,7 @@
  
  <br />
 <p align="center">
-  <a><img height="140px" src="https://github-readme-stats.vercel.app/api?username=marcio-vot&show_icons=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&theme=tokyonight" /><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-vot&layout=compact&hide_border=true&hide_title=true&theme=tokyonight" /></a>
+  <a><img height="137px" src="https://github-readme-stats.vercel.app/api?username=marcio-vot&show_icons=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-vot&layout=compact&hide_border=true&hide_title=true&theme=tokyonight" /></a>
 
  </p>
  

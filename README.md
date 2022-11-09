@@ -6,8 +6,7 @@
 ## I'm a Son, Developer, Eternal Learner, and a Software Engineer!!
 -  I’m currently working on my formation.
 -  I’m currently learning React.
--  I’m looking to collaborate on open source.
--  Ask me about ... Anything.
+-  I can make anything when I drink coffee!
 -  Fun fact: I speak 2 languages ( English & Portuguese )
 
 ### Talk with me:

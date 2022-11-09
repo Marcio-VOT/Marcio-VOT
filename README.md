@@ -1,7 +1,6 @@
 ### Hello there!  I'm Marcio.
 
- <!-- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
-
+<img  align="right" src="https://user-images.githubusercontent.com/115326340/200728117-4125f138-fe90-497d-a06b-b8fbd2ef9c82.gif" width="500" height="320"/>
 
 ## I'm a Developer, Eternal Learner, and a Software Engineer!!
 -  I’m currently working on my formation.

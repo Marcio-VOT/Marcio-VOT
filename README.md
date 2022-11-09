@@ -32,11 +32,14 @@
 <br />
 <br />
 <p>
-<div align="center">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto6-buzzquizz&show_icons=true&theme=transparent" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto5-batepapouol&show_icons=true&theme=transparent" alt="My github stats">
-  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=Projeto_04_parrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">
+<div >
+  
+  [<img align="left" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto6-buzzquizz&show_icons=true&theme=transparent" alt="My github stats">][repUm]
+  [<img align="center" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto5-batepapouol&show_icons=true&theme=transparent" alt="My github stats">][repDois]
+  [<img align="right" width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=Projeto_04_parrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">][repTres]
+  
 </div></p>
+
 
 ---
 
@@ -55,10 +58,15 @@
 ---
 
 
-
+<!-- [portfolio]: https://arsentieva.github.io/profile/ -->
 <!--[website]: https://holistic-developer.com/-->
 <!--[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw-->
 <!--[instagram]: https://www.instagram.com/holistic_developer/-->
 [linkedin]: https://www.linkedin.com/in/marcio-francisco-dos-santos-aa6092251/
-<!--[portfolio]: https://arsentieva.github.io/profile/-->
+
+[repUm]: https://github.com/Marcio-VOT/projeto6-buzzquizz
+[repDois]: https://github.com/Marcio-VOT/projeto5-batepapouol
+[repTres]: https://github.com/Marcio-VOT/Projeto_04_parrotsCardGame
+
+
 

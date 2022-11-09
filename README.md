@@ -32,6 +32,12 @@
 <br />
 <br />
 
+<div align="center">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto6-buzzquizz&show_icons=true&theme=transparent" alt="My github stats">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto5-batepapouol&show_icons=true&theme=transparent" alt="My github stats">
+  <img width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=Projeto_04_parrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">
+</div>
+
 ---
 
 <details>

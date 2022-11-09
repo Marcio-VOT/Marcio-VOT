@@ -3,7 +3,7 @@
  <!-- <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" /> -->
 
 
-## I'm a Son, Developer, Eternal Learner, and a Software Engineer!!
+## I'm a Developer, Eternal Learner, and a Software Engineer!!
 -  I’m currently working on my formation.
 -  I’m currently learning React.
 -  I can make anything when I drink coffee!
@@ -32,6 +32,7 @@
 
 <br />
 <br />
+
 ---
 
 <details>
@@ -40,24 +41,15 @@
  
  <br />
 <p align="center">
-  <img  alt="Marcio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=marcio-vot&show_icons=true&theme=transparent" />
+  <a><img height="140px" src="https://github-readme-stats.vercel.app/api?username=marcio-vot&show_icons=true&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&line_height=20&theme=tokyonight" /><img height="140px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-vot&layout=compact&hide_border=true&hide_title=true&theme=tokyonight" /></a>
+
  </p>
  
  </details>
 
- ---
- 
- <details>
-
- <summary>Most Used Languages </summary>
- 
- <br />
-<p align="center">
-<img alt="Marcio's GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcio-vot&theme=transparent" />
- </p>
-</details>
-
 ---
+
+
 
 <!--[website]: https://holistic-developer.com/-->
 <!--[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw-->

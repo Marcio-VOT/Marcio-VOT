@@ -32,11 +32,11 @@
 <br />
 <br />
 <p>
-<div >
+<div align="center">
   
-  [<img align="left" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto6-buzzquizz&show_icons=true&theme=transparent" alt="My github stats">][repUm]
-  [<img align="center" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto5-batepapouol&show_icons=true&theme=transparent" alt="My github stats">][repDois]
-  [<img align="right" width="32%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=Projeto_04_parrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">][repTres]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto6-buzzquizz&show_icons=true&theme=transparent" alt="My github stats">][repUm]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto5-batepapouol&show_icons=true&theme=transparent" alt="My github stats">][repDois]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=Projeto_04_parrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">][repTres]
   
 </div></p>
 

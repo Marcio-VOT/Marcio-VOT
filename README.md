@@ -74,7 +74,7 @@
 <!--[website]: https://holistic-developer.com/-->
 <!--[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw-->
 <!--[instagram]: https://www.instagram.com/holistic_developer/-->
-[linkedin]: https://www.linkedin.com/in/marcio-francisco-dos-santos-aa6092251/
+[linkedin]: https://www.linkedin.com/in/marcio-francisco-dos-santos-junior-aa6092251/
 
 [repUm]: https://github.com/Marcio-VOT/projeto7-instagramreact
 [repDois]: https://github.com/Marcio-VOT/projeto6-buzzquizz

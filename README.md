@@ -46,9 +46,9 @@
 <p>
 <div align="center">
   
-  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto6-buzzquizz&show_icons=true&theme=transparent" alt="My github stats">][repUm]
-  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto5-batepapouol&show_icons=true&theme=transparent" alt="My github stats">][repDois]
-  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=Projeto_04_parrotsCardGame&show_icons=true&theme=transparent" alt="My github stats">][repTres]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto7-instagramreact&show_icons=true&theme=transparent" alt="My github stats">][repUm]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto6-buzzquizz&show_icons=true&theme=transparent" alt="My github stats">][repDois]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto5-batepapouol&show_icons=true&theme=transparent" alt="My github stats">][repTres]
   
 </div></p>
 
@@ -76,9 +76,9 @@
 <!--[instagram]: https://www.instagram.com/holistic_developer/-->
 [linkedin]: https://www.linkedin.com/in/marcio-francisco-dos-santos-aa6092251/
 
-[repUm]: https://github.com/Marcio-VOT/projeto6-buzzquizz
-[repDois]: https://github.com/Marcio-VOT/projeto5-batepapouol
-[repTres]: https://github.com/Marcio-VOT/Projeto_04_parrotsCardGame
+[repUm]: https://github.com/Marcio-VOT/projeto7-instagramreact
+[repDois]: https://github.com/Marcio-VOT/projeto6-buzzquizz
+[repTres]: https://github.com/Marcio-VOT/projeto5-batepapouol
 [gmail]:mailto:marciofsantos65@gmail.com
 [whats]: https://wa.me/5541997892984
 

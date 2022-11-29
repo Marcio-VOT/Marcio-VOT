@@ -10,7 +10,9 @@
 
 ### Talk with me:
 
-[<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] [<img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail] [<img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />][whats]
+[<img  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin] 
+[<img  src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />][gmail] 
+[<img  src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />][whats]
 
 
 <h3> Languages and Tools </h3>
@@ -46,9 +48,9 @@
 <p>
 <div align="center">
   
-  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto7-instagramreact&show_icons=true&theme=transparent" alt="My github stats">][repUm]
-  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto6-buzzquizz&show_icons=true&theme=transparent" alt="My github stats">][repDois]
-  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto5-batepapouol&show_icons=true&theme=transparent" alt="My github stats">][repTres]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto8-jogoforca&show_icons=true&theme=transparent" alt="My github stats">][repUm]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto7-instagramreact&show_icons=true&theme=transparent" alt="My github stats">][repDois]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto6-buzzquizz&show_icons=true&theme=transparent" alt="My github stats">][repTres]
   
 </div></p>
 
@@ -76,9 +78,9 @@
 <!--[instagram]: https://www.instagram.com/holistic_developer/-->
 [linkedin]: https://www.linkedin.com/in/marcio-francisco-dos-santos-junior-aa6092251/
 
-[repUm]: https://github.com/Marcio-VOT/projeto7-instagramreact
-[repDois]: https://github.com/Marcio-VOT/projeto6-buzzquizz
-[repTres]: https://github.com/Marcio-VOT/projeto5-batepapouol
+[repUm]: https://github.com/Marcio-VOT/projeto8-jogoforca
+[repDois]: https://github.com/Marcio-VOT/projeto7-instagramreact
+[repTres]: https://github.com/Marcio-VOT/projeto6-buzzquizz
 [gmail]:mailto:marciofsantos65@gmail.com
 [whats]: https://wa.me/5541997892984
 

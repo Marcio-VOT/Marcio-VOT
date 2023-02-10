@@ -48,8 +48,8 @@
 <p>
 <div align="center">
   
-  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto8-jogoforca&show_icons=true&theme=transparent" alt="My github stats">][repUm]
-  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto7-instagramreact&show_icons=true&theme=transparent" alt="My github stats">][repDois]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=Vapor-front&show_icons=true&theme=transparent" alt="My github stats">][repUm]
+  [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=Vapor-back&show_icons=true&theme=transparent" alt="My github stats">][repDois]
   [<img  width="33%" src="https://github-readme-stats.vercel.app/api/pin/?username=marcio-vot&repo=projeto6-buzzquizz&show_icons=true&theme=transparent" alt="My github stats">][repTres]
   
 </div></p>
@@ -78,8 +78,8 @@
 <!--[instagram]: https://www.instagram.com/holistic_developer/-->
 [linkedin]: https://www.linkedin.com/in/marcio-francisco-dos-santos-junior-aa6092251/
 
-[repUm]: https://github.com/Marcio-VOT/projeto8-jogoforca
-[repDois]: https://github.com/Marcio-VOT/projeto7-instagramreact
+[repUm]: https://github.com/Marcio-VOT/Vapor-front
+[repDois]: https://github.com/Marcio-VOT/Vapor-back
 [repTres]: https://github.com/Marcio-VOT/projeto6-buzzquizz
 [gmail]:mailto:marciofsantos65@gmail.com
 [whats]: https://wa.me/5541997892984

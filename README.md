@@ -4,7 +4,7 @@
 
 ## I'm a Developer, Eternal Learner, and a Software Engineer!!
 -  I’m currently working on my formation.
--  I’m currently learning React.
+-  I’m currently learning Next.
 -  I can make anything when I drink coffee!
 -  Fun fact: I speak 2 languages ( English & Portuguese )
 

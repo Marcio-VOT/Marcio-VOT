@@ -73,7 +73,7 @@
 <!--[website]: https://holistic-developer.com/-->
 <!--[youtube]: https://www.youtube.com/channel/UCD6bHzIZCJJcJD6QHGUIyrw-->
 <!--[instagram]: https://www.instagram.com/holistic_developer/-->
-[linkedin]: https://www.linkedin.com/in/marcio-francisco-dos-santos-junior-aa6092251/
+[linkedin]: https://www.linkedin.com/in/marcio-francisco-junior/
 
 [repUm]: https://github.com/Marcio-VOT/Vapor-front
 [repDois]: https://github.com/Marcio-VOT/Vapor-back
